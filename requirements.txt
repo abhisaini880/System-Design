@@ -1,0 +1,35 @@
+# Core Python packages for System Design implementations
+typing-extensions>=4.0.0
+dataclasses>=0.6
+enum34>=1.1.10
+abc>=0.5
+
+# For threading and concurrency examples
+threading2>=0.1.2
+
+# For advanced data structures
+sortedcontainers>=2.4.0
+
+# For API and networking examples
+requests>=2.25.0
+flask>=2.0.0
+
+# For testing implementations
+pytest>=6.0.0
+pytest-cov>=2.10.0
+
+# For code quality
+black>=21.0.0
+flake8>=3.8.0
+mypy>=0.800
+
+# For documentation
+markdown>=3.3.0
+
+# For data handling in examples
+pandas>=1.3.0
+numpy>=1.21.0
+
+# For caching examples
+redis>=3.5.0
+memcached>=1.0.0
